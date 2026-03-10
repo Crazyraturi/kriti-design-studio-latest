@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 Disallow: /tmp/
 
-Sitemap: https://kritidesignstudio.qzz.io/sitemap.xml
+Sitemap: http://kritidesignstudio.qzz.io/sitemap.xml
 
 # Kriti Design Studio - Designer Ethnic Wear, Ghaziabad
 # https://kritidesignstudio.qzz.io
