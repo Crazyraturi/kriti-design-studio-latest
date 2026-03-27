@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-              http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+              https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
-    <loc>http://kritidesignstudio.qzz.io/</loc>
+    <loc>https://kritidesignstudio.qzz.io/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>http://kritidesignstudio.qzz.io/#collections</loc>
+    <loc>https://kritidesignstudio.qzz.io/#collections</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>http://kritidesignstudio.qzz.io/#custom</loc>
+    <loc>https://kritidesignstudio.qzz.io/#custom</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>http://kritidesignstudio.qzz.io/#gallery</loc>
+    <loc>https://kritidesignstudio.qzz.io/#gallery</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>http://kritidesignstudio.qzz.io/#about</loc>
-    <lastmod>2026-03-10</lastmod>
+    <loc>https://kritidesignstudio.qzz.io/#about</loc>
+    <lastmod>2s026-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>http://kritidesignstudio.qzz.io/#contact</loc>
+    <loc>https://kritidesignstudio.qzz.io/#contact</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
